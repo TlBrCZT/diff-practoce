@@ -1,5 +1,3 @@
-henkou
+rebase repo
 
-hey
-
-ss
+step 1 mk readme
